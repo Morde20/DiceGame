@@ -1,0 +1,32 @@
+body {
+  background-color: #393e46;
+}
+body .container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+body .container .goButton {
+  margin: 50px;
+  font-family: "Lobster", cursive;
+  font-size: 5rem;
+}
+body .container .dice {
+  text-align: center;
+  display: inline-block;
+}
+body .container p {
+  font-size: 2rem;
+  color: white;
+  font-family: "Indie Flower", cursive;
+}
+body .container img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
